@@ -2464,6 +2464,76 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
+		EurofurenceRegular12
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular16
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular24
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular32
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"32"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular36
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"36"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular42
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"42"
+				"antialias"	"1"
+			}
+		}
+		
+		EurofurenceRegular48
+		{
+			"1"
+			{
+				"name"		"eurofurence regular"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
 	}
 
 	//
