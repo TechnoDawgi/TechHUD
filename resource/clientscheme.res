@@ -2395,141 +2395,141 @@ Scheme
 			}
 		}
 		
-		EurofurenceLight12
+		NordicaThin12
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"12"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight16
+		NordicaThin16
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"16"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight24
+		NordicaThin24
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"24"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight32
+		NordicaThin32
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"32"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight36
+		NordicaThin36
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"36"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight42
+		NordicaThin42
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"42"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceLight48
+		NordicaThin48
 		{
 			"1"
 			{
-				"name"		"eurofurence light"
+				"name"		"NordicaThin"
 				"tall"		"48"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular12
+		NordicaRegular12
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"12"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular16
+		NordicaRegular16
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"16"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular24
+		NordicaRegular24
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"24"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular32
+		NordicaRegular32
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"32"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular36
+		NordicaRegular36
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"36"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular42
+		NordicaRegular42
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"42"
 				"antialias"	"1"
 			}
 		}
 		
-		EurofurenceRegular48
+		NordicaRegular48
 		{
 			"1"
 			{
-				"name"		"eurofurence regular"
+				"name"		"NordicaRegular"
 				"tall"		"48"
 				"antialias"	"1"
 			}
@@ -4442,18 +4442,18 @@ Scheme
 		}	
 		"7"
 		{
-			"font" "resource/fonts/euro35.ttf"
-			"name" "eurofurence light"
+			"font" "resource/fonts/NordicaBlack.otf"
+			"name" "NordicaBlack"
 		}
 		"8"
 		{
-			"font" "resource/fonts/euro55.ttf"
-			"name" "eurofurence regular"
+			"font" "resource/fonts/NordicaRegular.otf"
+			"name" "NordicaRegular"
 		}
 		"9"
 		{
-			"font" "resource/fonts/euro75.ttf"
-			"name" "eurofurence bold"
+			"font" "resource/fonts/NordicaThin.otf"
+			"name" "NordicaThin"
 		}
 	}
 }
