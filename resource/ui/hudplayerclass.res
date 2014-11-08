@@ -105,7 +105,7 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
 		"tall"			"200"
