@@ -2395,6 +2395,16 @@ Scheme
 			}
 		}
 		
+		NordicaThin6
+		{
+			"1"
+			{
+				"name"		"NordicaThin"
+				"tall"		"6"
+				"antialias"	"1"
+			}
+		}
+		
 		NordicaThin12
 		{
 			"1"
@@ -2530,6 +2540,76 @@ Scheme
 			"1"
 			{
 				"name"		"NordicaRegular"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack12
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack16
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack24
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack32
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"32"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack36
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"36"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack42
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
+				"tall"		"42"
+				"antialias"	"1"
+			}
+		}
+		
+		NordicaBlack48
+		{
+			"1"
+			{
+				"name"		"NordicaBlack"
 				"tall"		"48"
 				"antialias"	"1"
 			}
